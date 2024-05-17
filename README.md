@@ -1,6 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.shawnnn.store/git_banner.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.shawnnn.store/git_banner_dark.png">
+  <img alt="Orpheus LLC Banner">
 </picture>
 
 ![](https://dcbadge.limes.pink/api/server/https://discord.gg/Yst85hkaQM)
