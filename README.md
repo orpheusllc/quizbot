@@ -5,7 +5,7 @@
 </picture>
 
 ![](https://dcbadge.limes.pink/api/server/https://discord.gg/Yst85hkaQM)
-![](https://img.shields.io/github/stars/orpheusllc/quizbot) ![](https://img.shields.io/github/forks/orpheusllc/quizbot) ![](https://img.shields.io/github/tag/orpheusllc/quizbot) ![](https://img.shields.io/github/release/orpheusllc/quizbot) ![](https://img.shields.io/github/issues/orpheusllc/quizbot) ![]
+![](https://img.shields.io/github/stars/orpheusllc/quizbot) ![](https://img.shields.io/github/forks/orpheusllc/quizbot) ![](https://img.shields.io/github/tag/orpheusllc/quizbot) ![](https://img.shields.io/github/release/orpheusllc/quizbot) ![](https://img.shields.io/github/issues/orpheusllc/quizbot) 
 
 ### Функционал
 
