@@ -1,5 +1,7 @@
-![](https://cdn.shawnnn.store/git_banner_dark.png?sanitize=true#gh-light-mode-only)
-![](https://cdn.shawnnn.store/git_banner.png?sanitize=true#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.shawnnn.store/git_banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.shawnnn.store/git_banner_dark.png">
+</picture>
 
 ![](https://dcbadge.limes.pink/api/server/https://discord.gg/Yst85hkaQM)
 ![](https://img.shields.io/github/stars/orpheusllc/quizbot) ![](https://img.shields.io/github/forks/orpheusllc/quizbot) ![](https://img.shields.io/github/tag/orpheusllc/quizbot) ![](https://img.shields.io/github/release/orpheusllc/quizbot) ![](https://img.shields.io/github/issues/orpheusllc/quizbot) ![]
